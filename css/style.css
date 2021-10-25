@@ -3,6 +3,7 @@ body {
   color: #fff;
 }
 .box {
+  font-size: 20px;
   width: 150px;
   height: 150px;
   margin: 10px;
