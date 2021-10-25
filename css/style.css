@@ -3,12 +3,24 @@ body {
   color: #fff;
 }
 .box {
-  height: 80px;
-  width: 80px;
+  width: 150px;
+  height: 150px;
   margin: 10px;
   background-color: #1389B2;
   border: 1px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.per3 {
+  background-color: #0BD6A1 ;
+}
+
+.per5{
+  background-color: #FFD166;
+}
+
+.per3-5{
+  background-color: #F0466F;
 }
